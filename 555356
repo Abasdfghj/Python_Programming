@@ -1,0 +1,7 @@
+# Define the list
+L = ['Network', 'Bio', 'Programming', 'Physics', 'Music']
+
+# Iterate over the list and print items that start with 'B'
+for item in L:
+    if item.startswith('B'):
+        print(item)
